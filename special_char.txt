@@ -1,0 +1,17 @@
+, comma
+. period
+\ slash
+/ forward slash
+~ tilda
+! exclamation mark
+# pound sign
+- dash
+_ underscore
+^ caret
+` apostrophe
+' single quote
+" double quote
+() parenthesis
+[] square bracket
+{} curly braces
+| pipe
